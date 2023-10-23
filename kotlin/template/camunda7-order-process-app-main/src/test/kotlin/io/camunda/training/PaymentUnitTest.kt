@@ -1,4 +1,4 @@
-package io.camunda.training.handlers
+package io.camunda.training
 
 import org.junit.jupiter.api.Test
 

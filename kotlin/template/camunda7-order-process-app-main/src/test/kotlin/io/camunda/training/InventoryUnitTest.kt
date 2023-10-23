@@ -1,4 +1,4 @@
-package io.camunda.training.handlers
+package io.camunda.training
 
 import org.assertj.core.api.Assertions.*
 import org.camunda.bpm.engine.test.assertions.ProcessEngineTests.*
